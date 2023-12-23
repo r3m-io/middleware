@@ -22,10 +22,10 @@
                     "options": {
                         "priority": [
                             {
-                                "integer": ">-100"
+                                "integer": ">0"
                             },
                             {
-                                "integer": "<1000"
+                                "integer": "<65536"
                             }
                         ]
                     }
