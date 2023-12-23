@@ -15,7 +15,6 @@
                             "options": {
                                 "multiple": false,
                                 "expose": [
-                                    "command",
                                     "controller",
                                     "priority"
                                 ]
@@ -38,7 +37,6 @@
                             "options": {
                                 "multiple": false,
                                 "expose": [
-                                    "command",
                                     "controller",
                                     "priority"
                                 ]
@@ -61,7 +59,6 @@
                             "options": {
                                 "multiple": false,
                                 "expose": [
-                                    "command",
                                     "controller",
                                     "priority"
                                 ]
@@ -84,7 +81,6 @@
                             "options": {
                                 "multiple": false,
                                 "expose": [
-                                    "command",
                                     "controller",
                                     "priority"
                                 ]
@@ -107,7 +103,6 @@
                             "options": {
                                 "multiple": false,
                                 "expose": [
-                                    "command",
                                     "controller",
                                     "priority"
                                 ]
@@ -130,7 +125,6 @@
                             "options": {
                                 "multiple": false,
                                 "expose": [
-                                    "command",
                                     "controller",
                                     "priority"
                                 ]
@@ -153,7 +147,6 @@
                             "options": {
                                 "multiple": false,
                                 "expose": [
-                                    "command",
                                     "controller",
                                     "priority"
                                 ]
@@ -176,7 +169,6 @@
                             "options": {
                                 "multiple": false,
                                 "expose": [
-                                    "command",
                                     "controller",
                                     "priority"
                                 ]
@@ -199,7 +191,6 @@
                             "options": {
                                 "multiple": false,
                                 "expose": [
-                                    "command",
                                     "controller",
                                     "priority"
                                 ]
@@ -222,7 +213,6 @@
                             "options": {
                                 "multiple": false,
                                 "expose": [
-                                    "command",
                                     "controller",
                                     "priority"
                                 ]
@@ -245,7 +235,6 @@
                             "options": {
                                 "multiple": false,
                                 "expose": [
-                                    "command",
                                     "controller",
                                     "priority"
                                 ]
