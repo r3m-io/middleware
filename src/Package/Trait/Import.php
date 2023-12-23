@@ -19,6 +19,5 @@ trait Import {
             $node = new Node($object);
             $node->role_system_create($package);
         }
-        ddd('yes');
     }
 }
