@@ -36,6 +36,10 @@
       "#class": "Account.Permission"
     },
     {
+      "name": "System:Middleware:delete",
+      "#class": "Account.Permission"
+    },
+    {
       "name": "System:Middleware:read",
       "#class": "Account.Permission"
     },
