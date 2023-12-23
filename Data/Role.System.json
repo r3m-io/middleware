@@ -40,6 +40,10 @@
       "#class": "Account.Permission"
     },
     {
+      "name": "System:Middleware:delete.many",
+      "#class": "Account.Permission"
+    },
+    {
       "name": "System:Middleware:read",
       "#class": "Account.Permission"
     },
