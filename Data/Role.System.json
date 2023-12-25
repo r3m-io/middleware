@@ -76,7 +76,7 @@
       "#class": "Account.Permission"
     },
     {
-      "name": "System:Middleware:property.remove",
+      "name": "System:Middleware:property.delete",
       "#class": "Account.Permission"
     },
     {
