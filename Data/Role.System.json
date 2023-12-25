@@ -76,6 +76,10 @@
       "#class": "Account.Permission"
     },
     {
+      "name": "System:Middleware:property.remove",
+      "#class": "Account.Permission"
+    },
+    {
       "name": "System:Middleware:list",
       "#class": "Account.Permission"
     },
